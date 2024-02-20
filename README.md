@@ -40,3 +40,7 @@
 ### Join
 
 `cat ./splitted/T.json.* > ./T.json`
+
+## References
+
+- https://arxiv.org/abs/2010.03409
