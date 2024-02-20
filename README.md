@@ -22,3 +22,9 @@
 - `python -m pip install -r requirements.txt`
 - `ipython kernel install --user --name=mae285_env`
 - `jupyter lab`
+
+## Git authentication
+
+- `git config --local user.name "Your Name"`
+- `git config --local user.email "Your Email"`
+- `git remote set-url origin https://username:token@github.com/username/repository.git`
